@@ -1,0 +1,143 @@
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\appsettings.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\TestTask.exe
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\TestTask.deps.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\TestTask.runtimeconfig.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\TestTask.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\TestTask.pdb
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.TestTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.build.TestTask.props
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestTask.props
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestTask.props
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\scopedcss\bundle\TestTask.styles.css
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.CopyComplete
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\refint\TestTask.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.pdb
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\obj\Debug\net8.0\ref\TestTask.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bobr8\OneDrive\Desktop\тестовое задание\TestTask\TestTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\appsettings.json
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\TestTask.exe
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\TestTask.deps.json
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\TestTask.runtimeconfig.json
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\TestTask.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\TestTask.pdb
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Azure.Core.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Azure.Identity.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Memory.Data.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\TestTask\TestTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.AssemblyReference.cache
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.sourcelink.json
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.TestTask.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.build.TestTask.props
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestTask.props
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestTask.props
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\scopedcss\bundle\TestTask.styles.css
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.CopyComplete
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.dll
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\refint\TestTask.dll
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.pdb
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+E:\C#\TestTask\TestTask\obj\Debug\net8.0\ref\TestTask.dll
